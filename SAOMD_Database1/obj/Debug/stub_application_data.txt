@@ -1,0 +1,2 @@
+android.app.Application
+SAOMD_Database1.SAOMD_Database1

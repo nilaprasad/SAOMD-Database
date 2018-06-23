@@ -1,0 +1,155 @@
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.pdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.SAOMD_Database1.apk
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.SAOMD_Database1-Signed.apk
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.csprojResolveAssemblyReference.cache
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.dll
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.pdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\bin\SAOMD_Database1.SAOMD_Database1.apk
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\layout\main.xml
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\values\strings.xml
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable\icon.png
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable\splash.png
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\values\styles.xml
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\R.cs.flag
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\uploadflags.txt
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\mscorlib.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Core.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Xml.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\SAOMD_Database1.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Nila\Desktop\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.csprojResolveAssemblyReference.cache
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.pdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.SAOMD_Database1.apk
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.SAOMD_Database1-Signed.apk
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.dll
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.pdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\bin\SAOMD_Database1.SAOMD_Database1.apk
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\layout\additem.xml
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\layout\main.xml
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\values\strings.xml
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable\icon.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable\splash.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\values\styles.xml
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\raw\music.mp3
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\layout\toolbar.xml
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-mdpi\ic_action_content_create.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\menu\topmenus.xml
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-mdpi\ic_action_content_save.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-mdpi\ic_menu_copy_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-mdpi\ic_menu_cut_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-mdpi\ic_menu_paste_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-mdpi\ic_menu_search_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xhdpi\ic_action_content_create.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xhdpi\ic_action_content_save.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xhdpi\ic_menu_search_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xxhdpi\ic_action_content_create.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xxhdpi\ic_action_content_save.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xxhdpi\ic_menu_search_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-hdpi\ic_action_content_create.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-hdpi\ic_action_content_save.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-hdpi\ic_menu_copy_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-hdpi\ic_menu_cut_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-hdpi\ic_menu_paste_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-hdpi\ic_menu_search_holo_dark.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-hdpi\ic_add_white.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-mdpi\ic_add_white.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xhdpi\ic_add_white.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\res\drawable-xxhdpi\ic_add_white.png
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\R.cs.flag
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\uploadflags.txt
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\mscorlib.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Core.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Xml.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\SAOMD_Database1.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\obj\Debug\SAOMD_Database1.dll.mdb
+C:\Users\Nila\Documents\Visual Studio 2015\Projects\SAOMD_Database1\SAOMD_Database1\bin\Debug\SAOMD_Database1.dll.mdb

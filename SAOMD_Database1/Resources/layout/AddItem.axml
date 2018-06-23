@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+      android:text="Character Name"
+      android:id="@+id/charnameView"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/editCharName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+      android:text="Rarity"
+      android:id="@+id/rarityView"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+    <EditText
+      android:id="@+id/editRarity"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+    <TextView
+      android:text="Weapon Type"
+      android:id="@+id/weapontypeView"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+    <EditText
+      android:id="@+id/editWeaponType"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Skill 1"
+        android:id="@+id/skill1View"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+      android:id="@+id/editSkill1"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Skill 2"
+        android:id="@+id/skill2View"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+      android:id="@+id/editSkill2"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Skill 3"
+        android:id="@+id/skill3View"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+      android:id="@+id/editSkill3"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"/>
+  <Button
+      android:text="Add"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/btnAdd" />
+</LinearLayout>
